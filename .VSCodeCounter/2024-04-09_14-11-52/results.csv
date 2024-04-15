@@ -1,0 +1,29 @@
+"filename", "language", "Solidity", "Go Checksum File", "Go", "Go Module File", "comment", "blank", "total"
+"/home/yellow/fisco-certificate/certificate-backend/api/certificate.go", "Go", 0, 0, 185, 0, 0, 17, 202
+"/home/yellow/fisco-certificate/certificate-backend/api/main.go", "Go", 0, 0, 43, 0, 0, 7, 50
+"/home/yellow/fisco-certificate/certificate-backend/api/user.go", "Go", 0, 0, 169, 0, 0, 13, 182
+"/home/yellow/fisco-certificate/certificate-backend/conf/conf.go", "Go", 0, 0, 22, 0, 0, 6, 28
+"/home/yellow/fisco-certificate/certificate-backend/contract/certificate.sol", "Solidity", 102, 0, 0, 0, 11, 16, 129
+"/home/yellow/fisco-certificate/certificate-backend/go.mod", "Go Module File", 0, 0, 0, 66, 0, 5, 71
+"/home/yellow/fisco-certificate/certificate-backend/main.go", "Go", 0, 0, 15, 0, 0, 5, 20
+"/home/yellow/fisco-certificate/certificate-backend/middleware/auth.go", "Go", 0, 0, 59, 0, 0, 9, 68
+"/home/yellow/fisco-certificate/certificate-backend/middleware/cors.go", "Go", 0, 0, 29, 0, 0, 4, 33
+"/home/yellow/fisco-certificate/certificate-backend/middleware/session.go", "Go", 0, 0, 13, 0, 0, 3, 16
+"/home/yellow/fisco-certificate/certificate-backend/model/init.go", "Go", 0, 0, 45, 0, 0, 8, 53
+"/home/yellow/fisco-certificate/certificate-backend/model/migration.go", "Go", 0, 0, 6, 0, 0, 3, 9
+"/home/yellow/fisco-certificate/certificate-backend/model/user.go", "Go", 0, 0, 63, 0, 0, 8, 71
+"/home/yellow/fisco-certificate/certificate-backend/sdk/CertificateManagement.go", "Go", 0, 0, 656, 0, 0, 99, 755
+"/home/yellow/fisco-certificate/certificate-backend/sdk/sdk.go", "Go", 0, 0, 45, 0, 0, 11, 56
+"/home/yellow/fisco-certificate/certificate-backend/serializer/common.go", "Go", 0, 0, 73, 0, 0, 11, 84
+"/home/yellow/fisco-certificate/certificate-backend/serializer/page.go", "Go", 0, 0, 20, 0, 0, 4, 24
+"/home/yellow/fisco-certificate/certificate-backend/serializer/user.go", "Go", 0, 0, 28, 0, 0, 5, 33
+"/home/yellow/fisco-certificate/certificate-backend/server/router.go", "Go", 0, 0, 50, 0, 0, 14, 64
+"/home/yellow/fisco-certificate/certificate-backend/service/user_login_service.go", "Go", 0, 0, 35, 0, 0, 10, 45
+"/home/yellow/fisco-certificate/certificate-backend/service/user_register_service.go", "Go", 0, 0, 74, 0, 0, 11, 85
+"/home/yellow/fisco-certificate/certificate-backend/util/logger.go", "Go", 0, 0, 94, 0, 0, 13, 107
+"/home/yellow/fisco-certificate/contract/certificate.sol", "Solidity", 102, 0, 0, 0, 11, 16, 129
+"/home/yellow/fisco-certificate/deploy-contract/CertificateManagement.go", "Go", 0, 0, 656, 0, 0, 99, 755
+"/home/yellow/fisco-certificate/deploy-contract/go.mod", "Go Module File", 0, 0, 0, 31, 0, 4, 35
+"/home/yellow/fisco-certificate/deploy-contract/go.sum", "Go Checksum File", 0, 168, 0, 0, 0, 1, 169
+"/home/yellow/fisco-certificate/deploy-contract/main.go", "Go", 0, 0, 25, 0, 0, 5, 30
+"Total", "-", 204, 168, 2405, 97, 22, 407, 3303

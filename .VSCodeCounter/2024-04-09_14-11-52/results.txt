@@ -1,0 +1,68 @@
+Date : 2024-04-09 14:11:52
+Directory : /home/yellow/fisco-certificate
+Total : 27 files,  2874 codes, 22 comments, 407 blanks, all 3303 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Go               |         22 |      2,405 |          0 |        365 |      2,770 |
+| Solidity         |          2 |        204 |         22 |         32 |        258 |
+| Go Checksum File |          1 |        168 |          0 |          1 |        169 |
+| Go Module File   |          2 |         97 |          0 |          9 |        106 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                   |         27 |      2,874 |         22 |        407 |      3,303 |
+| certificate-backend                                                                 |         22 |      1,892 |         11 |        282 |      2,185 |
+| certificate-backend (Files)                                                         |          2 |         81 |          0 |         10 |         91 |
+| certificate-backend/api                                                             |          3 |        397 |          0 |         37 |        434 |
+| certificate-backend/conf                                                            |          1 |         22 |          0 |          6 |         28 |
+| certificate-backend/contract                                                        |          1 |        102 |         11 |         16 |        129 |
+| certificate-backend/middleware                                                      |          3 |        101 |          0 |         16 |        117 |
+| certificate-backend/model                                                           |          3 |        114 |          0 |         19 |        133 |
+| certificate-backend/sdk                                                             |          2 |        701 |          0 |        110 |        811 |
+| certificate-backend/serializer                                                      |          3 |        121 |          0 |         20 |        141 |
+| certificate-backend/server                                                          |          1 |         50 |          0 |         14 |         64 |
+| certificate-backend/service                                                         |          2 |        109 |          0 |         21 |        130 |
+| certificate-backend/util                                                            |          1 |         94 |          0 |         13 |        107 |
+| contract                                                                            |          1 |        102 |         11 |         16 |        129 |
+| deploy-contract                                                                     |          4 |        880 |          0 |        109 |        989 |
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                            | language         | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /home/yellow/fisco-certificate/certificate-backend/api/certificate.go               | Go               |        185 |          0 |         17 |        202 |
+| /home/yellow/fisco-certificate/certificate-backend/api/main.go                      | Go               |         43 |          0 |          7 |         50 |
+| /home/yellow/fisco-certificate/certificate-backend/api/user.go                      | Go               |        169 |          0 |         13 |        182 |
+| /home/yellow/fisco-certificate/certificate-backend/conf/conf.go                     | Go               |         22 |          0 |          6 |         28 |
+| /home/yellow/fisco-certificate/certificate-backend/contract/certificate.sol         | Solidity         |        102 |         11 |         16 |        129 |
+| /home/yellow/fisco-certificate/certificate-backend/go.mod                           | Go Module File   |         66 |          0 |          5 |         71 |
+| /home/yellow/fisco-certificate/certificate-backend/main.go                          | Go               |         15 |          0 |          5 |         20 |
+| /home/yellow/fisco-certificate/certificate-backend/middleware/auth.go               | Go               |         59 |          0 |          9 |         68 |
+| /home/yellow/fisco-certificate/certificate-backend/middleware/cors.go               | Go               |         29 |          0 |          4 |         33 |
+| /home/yellow/fisco-certificate/certificate-backend/middleware/session.go            | Go               |         13 |          0 |          3 |         16 |
+| /home/yellow/fisco-certificate/certificate-backend/model/init.go                    | Go               |         45 |          0 |          8 |         53 |
+| /home/yellow/fisco-certificate/certificate-backend/model/migration.go               | Go               |          6 |          0 |          3 |          9 |
+| /home/yellow/fisco-certificate/certificate-backend/model/user.go                    | Go               |         63 |          0 |          8 |         71 |
+| /home/yellow/fisco-certificate/certificate-backend/sdk/CertificateManagement.go     | Go               |        656 |          0 |         99 |        755 |
+| /home/yellow/fisco-certificate/certificate-backend/sdk/sdk.go                       | Go               |         45 |          0 |         11 |         56 |
+| /home/yellow/fisco-certificate/certificate-backend/serializer/common.go             | Go               |         73 |          0 |         11 |         84 |
+| /home/yellow/fisco-certificate/certificate-backend/serializer/page.go               | Go               |         20 |          0 |          4 |         24 |
+| /home/yellow/fisco-certificate/certificate-backend/serializer/user.go               | Go               |         28 |          0 |          5 |         33 |
+| /home/yellow/fisco-certificate/certificate-backend/server/router.go                 | Go               |         50 |          0 |         14 |         64 |
+| /home/yellow/fisco-certificate/certificate-backend/service/user_login_service.go    | Go               |         35 |          0 |         10 |         45 |
+| /home/yellow/fisco-certificate/certificate-backend/service/user_register_service.go | Go               |         74 |          0 |         11 |         85 |
+| /home/yellow/fisco-certificate/certificate-backend/util/logger.go                   | Go               |         94 |          0 |         13 |        107 |
+| /home/yellow/fisco-certificate/contract/certificate.sol                             | Solidity         |        102 |         11 |         16 |        129 |
+| /home/yellow/fisco-certificate/deploy-contract/CertificateManagement.go             | Go               |        656 |          0 |         99 |        755 |
+| /home/yellow/fisco-certificate/deploy-contract/go.mod                               | Go Module File   |         31 |          0 |          4 |         35 |
+| /home/yellow/fisco-certificate/deploy-contract/go.sum                               | Go Checksum File |        168 |          0 |          1 |        169 |
+| /home/yellow/fisco-certificate/deploy-contract/main.go                              | Go               |         25 |          0 |          5 |         30 |
+| Total                                                                               |                  |      2,874 |         22 |        407 |      3,303 |
++-------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
